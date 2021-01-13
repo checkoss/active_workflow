@@ -22,7 +22,7 @@ gem 'evernote_oauth'
 gem 'aws-sdk-core', '~> 2.2.15'
 
 # Optional Services.
-gem 'omniauth-37signals' # BasecampAgent
+gem 'omniauth-37signals' , '>= 1.0.5' # BasecampAgent
 
 gem 'ace-rails-ap', '~> 4.2'
 gem 'bootsnap', '>= 1.4.6', require: false
@@ -50,7 +50,7 @@ gem 'liquid', '~> 4.0.3'
 gem 'loofah', '~> 2.5.0'
 gem 'mini_magick', '~> 4.9.5'
 gem 'nokogiri', '~> 1.10.8'
-gem 'omniauth', '~> 1.9.0'
+gem 'omniauth', '~> 2.0.0'
 gem 'rack-timeout', '~> 0.5.1'
 gem 'rails', '~> 6.0.3.2'
 gem 'rails-html-sanitizer', '~> 1.3.0'
