@@ -14,8 +14,8 @@ gem 'erector', git: 'https://github.com/erector/erector', ref: '59754211101b2c50
 gem 'slack-notifier', '~> 1.0.0'  # SlackAgent
 
 # EvernoteAgent
-gem 'omniauth-evernote'
-gem 'evernote_oauth'
+gem 'omniauth-evernote', '>= 1.2.1'
+gem 'evernote_oauth', '>= 0.2.3'
 
 # S3Agent
 # TODO: update
