@@ -112,6 +112,6 @@ group :development do
   end
 end
 
-gem 'puma', '~> 5.0.0'
+gem 'puma', '~> 5.3.1'
 
 gem 'pg', '~> 1.2.3'
