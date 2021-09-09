@@ -75,7 +75,7 @@ gem 'jwt', '~> 2.2.1'
 group :development do
   gem 'bullet', '~> 6.1.0'
   gem 'sqlite3', '~> 1.4.2'
-  gem 'better_errors', '~> 2.7.0'
+  gem 'better_errors', '~> 2.8.0'
   gem 'binding_of_caller', '~> 0.8.0'
   gem 'foreman', '~> 0.87.1'
   gem 'guard', '~> 2.16.2'
