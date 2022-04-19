@@ -7,7 +7,7 @@ ruby '>=2.6.0'
 # TODO: update
 gem 'twilio-ruby', '~> 3.11.5'    # TwilioAgent
 gem 'net-ftp-list', '~> 3.2.8'    # FtpsiteAgent
-gem 'rturk', '~> 2.12.1'          # HumanTaskAgent
+gem 'rturk', '~> 2.12.1' # HumanTaskAgent
 # Required by rturk, fixes Fixnum bug.
 gem 'erector', git: 'https://github.com/erector/erector', ref: '59754211101b2c50a4c9daa8e64a64e6edc9e976'
 # TODO: update
