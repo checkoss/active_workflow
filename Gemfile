@@ -19,7 +19,7 @@ gem 'evernote_oauth'
 
 # S3Agent
 # TODO: update
-gem 'aws-sdk-core', '~> 2.2.15'
+gem 'aws-sdk-core', '~> 2.2.37'
 
 # Optional Services.
 gem 'omniauth-37signals' # BasecampAgent
