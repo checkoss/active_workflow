@@ -40,7 +40,7 @@ gem 'faraday_middleware', '~> 0.12.2'
 gem 'feedjira', '~> 2.2'
 # TODO: use font-awesome-rails?
 gem 'font-awesome-sass', '~> 5.12.0'
-gem 'httparty', '~> 0.16'
+gem 'httparty', '~> 0.21', '>= 0.21.0'
 gem 'jquery-rails', '~> 4.3.5'
 gem 'json', '~> 2.3.0'
 gem 'jsonpath', '~> 1.0.1'
