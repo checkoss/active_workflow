@@ -7,7 +7,7 @@ ruby '>=2.6.0'
 # TODO: update
 gem 'twilio-ruby', '~> 3.11.5'    # TwilioAgent
 gem 'net-ftp-list', '~> 3.2.8'    # FtpsiteAgent
-gem 'rturk', '~> 2.12.1'          # HumanTaskAgent
+gem 'rturk', '~> 2.12.1' # HumanTaskAgent
 # Required by rturk, fixes Fixnum bug.
 gem 'erector', git: 'https://github.com/erector/erector', ref: '59754211101b2c50a4c9daa8e64a64e6edc9e976'
 # TODO: update
@@ -30,8 +30,8 @@ gem 'execjs', '~> 2.7.0'
 gem 'mini_racer', '~> 0.3.1'
 gem 'bootstrap', '~> 4.5.0'
 gem 'daemons', '~> 1.2.6'
-gem 'delayed_job', '~> 4.1.8'
-gem 'delayed_job_active_record', '~> 4.1.4'
+gem 'delayed_job', '~> 4.1.9'
+gem 'delayed_job_active_record', '~> 4.1.5'
 gem 'devise', '~> 4.7.1'
 gem 'dotenv', '~> 2.5.0'
 # TODO: update
@@ -50,9 +50,9 @@ gem 'liquid', '~> 4.0.3'
 gem 'loofah', '~> 2.5.0'
 gem 'mini_magick', '~> 4.9.5'
 gem 'nokogiri', '~> 1.10.8'
-gem 'omniauth', '~> 1.9.0'
+gem 'omniauth', '~> 1.9.1'
 gem 'rack-timeout', '~> 0.5.1'
-gem 'rails', '~> 6.0.3.2'
+gem 'rails', '~> 6.1.7.1'
 gem 'rails-html-sanitizer', '~> 1.3.0'
 # TODO: Removing coffee-rails breaks deployment on heroku, investigate.
 gem 'coffee-rails', '~> 4.2.2'
