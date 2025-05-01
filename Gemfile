@@ -101,7 +101,7 @@ group :development do
     # TODO: update
     gem 'rr', '~> 1.1.2'
     gem 'rspec', '~> 3.9.0'
-    gem 'rspec-rails', '~> 4.0.0'
+    gem 'rspec-rails', '~> 8.0.0'
     gem 'rspec-collection_matchers', '~> 1.2.0'
     gem 'rspec-html-matchers', '~> 0.9.2'
     gem 'rspec_junit_formatter', '~> 0.4.1'
