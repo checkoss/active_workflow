@@ -35,9 +35,9 @@ gem 'delayed_job_active_record', '~> 4.1.4'
 gem 'devise', '~> 4.7.1'
 gem 'dotenv', '~> 2.5.0'
 # TODO: update
-gem 'faraday', '~> 0.9'
+gem 'faraday', '~> 2.14', '>= 2.14.1'
 gem 'faraday_middleware', '~> 0.12.2'
-gem 'feedjira', '~> 2.2'
+gem 'feedjira', '~> 3.0', '>= 3.0.0'
 # TODO: use font-awesome-rails?
 gem 'font-awesome-sass', '~> 5.12.0'
 gem 'httparty', '~> 0.16'
